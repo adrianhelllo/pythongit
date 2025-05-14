@@ -1,3 +1,3 @@
 print("Helló python GIT")
-print("Sziasztok")
-print("harmadik sor")
+print("2. sor")
+print("3. sor")
